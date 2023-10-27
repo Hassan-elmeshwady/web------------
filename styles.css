@@ -22,7 +22,7 @@ body {
 }
 
 .nav-item {
-    padding: 0 40px;
+    padding: 0 50px;
     font-size: 70px;
     
 
@@ -148,8 +148,8 @@ body {
 
 .social-icons {
     list-style-type: none;
-    padding: 0;
-    margin: 0;
+    padding: 0 50px;
+    margin: 0 ;
 }
 
 .social-icons li {
@@ -164,8 +164,8 @@ body {
 
 /* تخصيص حجم الصور */
 .social-icons img {
-    width: 60px; /* حجم الصورة المناسب لأيقونات وسائل التواصل الاجتماعي الخاصة بك */
-    height: 60px; /* حجم الصورة المناسب لأيقونات وسائل التواصل الاجتماعي الخاصة بك */
+    width: 80px; /* حجم الصورة المناسب لأيقونات وسائل التواصل الاجتماعي الخاصة بك */
+    height: 80px; /* حجم الصورة المناسب لأيقونات وسائل التواصل الاجتماعي الخاصة بك */
 }
 
 .social-icons a:hover {
