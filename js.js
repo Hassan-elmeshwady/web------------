@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
     let currentIndex = 0;
 
     // Array of image sources
-    const images = ["image1.jpg", "image2.jpg", "image3.jpg", "image4.jpg"];
+    const images = ["image1.jpg", "image2.jpg", "image3.jpg", "image4.jpg", "image4.jpg"];
 
     function showImage(index) {
         imageContainer.style.transform = `translateX(-${index * 100}%)`;
